@@ -1,4 +1,5 @@
 Comandos NPM:
+  
   Inicia os testes de todas as Specs
   - Navegador Electron: npx cypress run // Navegador Chrome: npx cypress --browser chrome
 
